@@ -10,7 +10,11 @@
 - HTML
 - CSS
 
+## Getting Started
 
+To get a local copy up and running follow these simple example steps:
+- Clone the repo to your computer.
+- Open index.html in your browser.
 
 👤 **Author1**
 
